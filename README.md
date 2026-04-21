@@ -28,5 +28,3 @@ A fully-featured REST API built using **FastAPI** that supports user authenticat
 - **Server:** Uvicorn
 
 ---
-
-## 📂 Project Structure
