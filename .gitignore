@@ -57,6 +57,7 @@ __pycache__/
 .env
 venv/
 .env.*
+!.env.example
 
 # Node
 node_modules/
